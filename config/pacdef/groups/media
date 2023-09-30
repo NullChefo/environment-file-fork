@@ -10,3 +10,4 @@ obs-source-record
 obs-studio-browser
 v4l2loopback-dkms-git
 yt-dlp
+mbedtls2

@@ -1,4 +1,5 @@
 [arch]
+mysql
 autoconf
 automake
 aws-session-manager-plugin

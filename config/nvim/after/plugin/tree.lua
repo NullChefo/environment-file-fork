@@ -6,6 +6,7 @@ require'nvim-tree'.setup {
     ignore = true
   },
   view = {
+    adaptive_size = true,
     float = {
       enable = true
     }
