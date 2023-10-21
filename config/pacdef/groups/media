@@ -6,8 +6,7 @@ flameshot
 losslesscut-bin
 mechvibes
 mediainfo
-obs-source-record
-obs-studio-browser
-v4l2loopback-dkms-git
+obs-studio-tytan652
+v4l2loopback-dkms
 yt-dlp
 mbedtls2

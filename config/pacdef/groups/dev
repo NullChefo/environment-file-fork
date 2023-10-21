@@ -1,5 +1,16 @@
 [arch]
-mysql
+go
+goreleaser
+beekeeper-studio-ultimate
+esbuild
+gnu-netcat
+postgresql
+pulumi
+aws-cli-v2
+less
+nvim-packer-git
+oh-my-zsh-git
+mariadb
 autoconf
 automake
 aws-session-manager-plugin

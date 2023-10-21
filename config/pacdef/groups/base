@@ -1,4 +1,9 @@
 [arch]
+amd-ucode
+arandr
+xorg-xrandr
+base-devel
+paru
 base
 efibootmgr
 i3-wm
@@ -20,5 +25,5 @@ ttf-dejavu
 ttf-liberation
 xorg-server
 xorg-xinit
-yay
+yay-bin
 arc-gtk-theme
