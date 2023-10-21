@@ -1,6 +1,7 @@
 [arch]
+rsync
 base-devel
-paru
+paru-bin
 base
 linux
 openssh
