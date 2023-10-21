@@ -1,7 +1,7 @@
 [arch]
+tmux
 go
 goreleaser
-beekeeper-studio-ultimate
 esbuild
 gnu-netcat
 postgresql
@@ -42,7 +42,6 @@ python
 python2
 ripgrep
 zsh
-alacritty
 autojump-rs
 neofetch
 rpi-imager

@@ -1,0 +1,9 @@
+[arch]
+base-devel
+paru
+base
+linux
+openssh
+pacdef
+reflector
+sudo
