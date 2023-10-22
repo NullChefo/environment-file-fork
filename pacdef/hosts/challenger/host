@@ -1,0 +1,6 @@
+
+[arch]
+btrfs-progs
+cloud-guest-utils
+cloud-init
+grub

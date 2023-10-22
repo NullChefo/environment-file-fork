@@ -1,4 +1,5 @@
 [arch]
+mosh
 rsync
 base-devel
 paru-bin
