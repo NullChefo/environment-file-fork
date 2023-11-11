@@ -48,14 +48,14 @@ lsp.on_attach(function(client, bufnr)
   vim.keymap.set("i", "<C-h>", function() vim.lsp.buf.signature_help() end, opts)
 end)
 
--- lsp.configure("tsserver", {
---   root_dir = require("lspconfig").util.root_pattern(".git", "pnpm-workspace.yaml", "pnpm-lock.yaml", "yarn.lock", "package-lock.json", "bun.lockb"),
---   init_options = {
---     preferences = { 
---       includeCompletionsForModuleExports = false 
---     }
---   }
--- })
+lsp.configure("vtsls", {
+  root_dir = require("lspconfig").util.root_pattern(".git", "pnpm-workspace.yaml", "pnpm-lock.yaml", "yarn.lock", "package-lock.json", "bun.lockb"),
+  experimental = {
+    completion = {
+      entriesLimit = 3
+    }
+  }
+})
 
 lsp.setup()
 
