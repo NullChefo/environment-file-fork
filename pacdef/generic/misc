@@ -1,4 +1,10 @@
 [arch]
+arp-scan
+bind
+hyperfine
+nmap
+speedtest-cli
+sysbench
 ncdu
 unzip
 rsync
@@ -8,12 +14,8 @@ inetutils
 pkgconf
 ripgrep
 zsh
-alacritty
 autojump-rs
 neofetch
-usbutils
-virtualbox
-virtualbox-guest-utils
 wget
 which
 xclip

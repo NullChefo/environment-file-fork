@@ -108,3 +108,9 @@ fi
 export PNPM_HOME="/home/thdxr/.local/share/pnpm"
 export PATH="$PNPM_HOME:$PATH"
 # pnpm end
+
+# add Pulumi to the PATH
+# export PATH=$PATH:$HOME/.pulumi/bin
+
+# Added by nitric binary installer
+export PATH="$HOME/.nitric/bin:$PATH"

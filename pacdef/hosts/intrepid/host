@@ -1,0 +1,6 @@
+[arch]
+efibootmgr
+iwd
+usbutils
+virtualbox
+virtualbox-guest-utils

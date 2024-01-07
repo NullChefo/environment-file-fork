@@ -15,6 +15,7 @@ i3-msg "workspace 10; exec alacritty -e zsh -c \"journal && exec zsh\""
 i3-msg "workspace 10; exec barrier"
 i3-msg "workspace 10; exec pavucontrol"
 i3-msg "workspace 10; exec aw-qt"
+i3-msg "workspace 10; exec mechvibes --no-sandbox"
 sleep 3
 
 # i3-msg "workspace 3; append_layout ~/.i3/intrepid/browser.json;"

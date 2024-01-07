@@ -1,4 +1,10 @@
 [arch]
+bunjs-bin
+plow
+pscale-cli-bin
+sst-bin
+torpedo-bin
+vercel
 tmux
 go
 goreleaser

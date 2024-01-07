@@ -1,6 +1,14 @@
 require("telescope").setup{
+  pickers = {
+    find_files = {
+      hidden = true
+    },
+    git_files = {
+      hidden = true
+    }
+  },
   defaults = {
-    file_ignore_patters = { "yarn.lock", "node_modules/*" }
+    file_ignore_patterns = { "yarn.lock", "node_modules/*" }
   }
 }
 local builtin = require("telescope.builtin")
