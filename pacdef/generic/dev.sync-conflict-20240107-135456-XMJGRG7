@@ -1,4 +1,5 @@
 [arch]
+bunjs-bin
 plow
 pscale-cli-bin
 sst-bin
@@ -41,6 +42,7 @@ otf-hasklig-nerd
 pkgconf
 pnpm
 prettierd
+pscale-cli
 pspg
 python
 python2
