@@ -114,3 +114,8 @@ export PATH="$PNPM_HOME:$PATH"
 
 # Added by nitric binary installer
 export PATH="$HOME/.nitric/bin:$PATH"
+export PATH="$HOME/.pulumi/bin:$PATH"
+
+# bun
+export BUN_INSTALL="$HOME/.config/sst/bun"
+export PATH="$BUN_INSTALL/bin:$PATH"

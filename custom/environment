@@ -43,4 +43,4 @@ chpwd() {
 }
 
 WHEREAMI=$(cat /tmp/whereami)
-builtin cd $WHEREAMI
+# builtin cd $WHEREAMI

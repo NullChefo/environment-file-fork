@@ -1,9 +1,10 @@
 require'nvim-tree'.setup {
   filters = {
-    custom = {".git", "node_modules", ".vscode"}
+    custom = {".git", "node_modules", ".vscode"},
+    dotfiles = true
   },
   git = {
-    ignore = true
+    -- ignore = true
   },
   view = {
     adaptive_size = true,

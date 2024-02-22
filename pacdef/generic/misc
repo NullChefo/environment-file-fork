@@ -1,4 +1,6 @@
 [arch]
+ffmpeg
+syncthing
 arp-scan
 bind
 hyperfine

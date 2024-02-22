@@ -6,11 +6,11 @@ sleep 3
 
 i3-msg "workspace 2; append_layout ~/.i3/intrepid/main.json;"
 i3-msg "workspace 2; exec google-chrome-stable;"
-i3-msg "workspace 2; move workspace to output left"
+i3-msg "workspace 2; move workspace to output fake-1"
 
-i3-msg "workspace 8, move workspace to output left"
+i3-msg "workspace 8, move workspace to output fake-1"
 
-i3-msg "workspace 10, move workspace to output left"
+i3-msg "workspace 10, move workspace to output fake-0"
 i3-msg "workspace 10; exec alacritty -e zsh -c \"journal && exec zsh\""
 i3-msg "workspace 10; exec barrier"
 i3-msg "workspace 10; exec pavucontrol"

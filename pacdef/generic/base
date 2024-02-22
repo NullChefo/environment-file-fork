@@ -1,4 +1,6 @@
 [arch]
+libaio
+linux-firmware
 paru
 mosh
 rsync

@@ -38,4 +38,6 @@ return require('packer').startup(function()
   use { "zbirenbaum/copilot.lua" }
   use { "mbbill/undotree" }
   use { "nvim-treesitter/nvim-treesitter-context" }
+
+  use { 'robitx/gp.nvim' }
 end)

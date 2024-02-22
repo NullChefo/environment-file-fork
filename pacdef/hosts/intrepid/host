@@ -1,4 +1,6 @@
 [arch]
+greetd
+greetd-tuigreet
 efibootmgr
 iwd
 usbutils
