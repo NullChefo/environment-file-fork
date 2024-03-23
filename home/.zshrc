@@ -119,3 +119,8 @@ export PATH="$HOME/.pulumi/bin:$PATH"
 # bun
 export BUN_INSTALL="$HOME/.config/sst/bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
+
+
+
+# sst
+export PATH=/home/thdxr/.sst/bin:$PATH
