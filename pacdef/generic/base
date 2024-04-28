@@ -1,4 +1,6 @@
 [arch]
+fuse-overlayfs
+tmux-plugin-manager
 libaio
 linux-firmware
 paru

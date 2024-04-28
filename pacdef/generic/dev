@@ -1,4 +1,8 @@
 [arch]
+cloudflared
+frps
+bat
+docker-compose
 traceroute
 plow
 pscale-cli-bin
